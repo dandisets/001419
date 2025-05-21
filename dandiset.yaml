@@ -64,6 +64,7 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2025-04-20T20:50:40.191062+00:00'
+datePublished: '2025-05-21T23:43:50.395392+00:00'
 description: Linear probe recordings from the mouse primary (A1) or secondary (A2)
   auditory cortex during click and tone presentations. Current source density (CSD)
   and unit activity data are included.
@@ -76,6 +77,18 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001419/versions/draft/assets/
 name: 'Cortical Circuits for the integration of short-latency auditory pathways: Auditory
   cortex linear probe recording'
+publishedBy:
+  endDate: '2025-05-21T23:43:50.395392+00:00'
+  id: urn:uuid:fd649584-7817-4063-a422-7c3dbe2818c6
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2025-05-21T23:43:50.395392+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:21db5a2a-3965-4592-80fa-d20300fb66d8
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
